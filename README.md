@@ -36,3 +36,5 @@ func main() {
 ~$ curl http://127.0.0.1:7070/index
 hello, golang!
 ```
+## 注
+1. 这个fork支持参数以 "-d"的形式提供，等价于"-d=true"
